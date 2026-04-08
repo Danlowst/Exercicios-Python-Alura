@@ -39,5 +39,3 @@ def calculadora():
         print('Sinal não identificado.')
 
 calculadora()
-
-#teste do git pq não sei muito como funciona
