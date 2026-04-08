@@ -39,3 +39,5 @@ def calculadora():
         print('Sinal não identificado.')
 
 calculadora()
+
+#Texto ta aq dnv
